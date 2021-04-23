@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google No Suggest
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.0.2
 // @description  Don't allow Google to suggest alternate pages while navigating back to the search results page from visiting a link
 // @author       You
 // @match        https://www.google.com/search*

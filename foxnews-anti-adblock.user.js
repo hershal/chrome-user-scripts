@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         FoxNews Anti-Adblock Bypass
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.0.1
 // @description  Remove the banner that detects adblock
 // @author       You
 // @match        https://www.foxnews.com/*
