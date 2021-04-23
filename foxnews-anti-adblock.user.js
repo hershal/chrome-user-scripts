@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.0.1
 // @description  Remove the banner that detects adblock
-// @author       You
+// @author       Hershal Bhave
 // @match        https://www.foxnews.com/*
 // @icon         https://www.foxnews.com/favicon.ico
 // @grant        none

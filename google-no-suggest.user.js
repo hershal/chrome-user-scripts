@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.0.2
 // @description  Don't allow Google to suggest alternate pages while navigating back to the search results page from visiting a link
-// @author       You
+// @author       Hershal Bhave
 // @match        https://www.google.com/search*
 // @icon         https://www.google.com/s2/favicons?domain=google.com
 // @grant        none
