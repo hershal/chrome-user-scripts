@@ -4,9 +4,10 @@ This is a collection of user scripts that can be installed with a UserScript man
 
 ## Installation
 
-I'm assuming you're using Chrome.
+First, install a userscript manager:
+* Chrome - [TamperMonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-First, install [TamperMonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo). Then, click "Install" on the script you'd like to install. Your userscripts will automatically be kept up to date.
+Then click "Install" on the script you want. Your userscripts will automatically be kept up to date.
 
 | Website  | Description                                             | Link                                                                                              |
 |----------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------|
